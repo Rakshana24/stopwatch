@@ -1,0 +1,28 @@
+body{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    flex-direction: column;
+
+}
+div{
+    padding:10px;
+}
+#holediv{
+    margin-top: 10%;
+}
+#heading{
+  font-size: 50px;
+  font-weight: bolder;
+}
+#time{
+    margin-left:120px;
+    font-size: larger;
+    font-weight: bolder;
+}
+#controls{
+margin-left: 87px;
+}
+button{
+    font-size:20px;
+}
